@@ -1,5 +1,5 @@
 //PROJECT: Student Record Management System using C++
-//Written by Nikhil
+//Written by 23aiml025,007,011
 #include<iostream>
 using namespace std;
 string roll_no[30],name[30],Class[30],course[30],mobile_no[30],admission_year[30];
